@@ -1,0 +1,44 @@
+body{
+	padding:0px;
+	margin: 0px;
+	background-image: url(images/bg.gif);
+	background-repeat: all;
+
+}
+.content {
+	padding: 5px;
+	width: 80%;
+	height: 600px;
+	margin-left: 10%;
+	background-color: white;
+}
+img {
+	float: right;
+}
+.header {	
+	float: right;
+	text-align: left;
+	width: 100%;
+	height: 150px;
+	background-color: #C2E9E9;
+}
+.date {
+	border-bottom: 2px blue dashed;
+}
+.item{
+	float: right;
+	margin-top: 10px;
+	width: 82%;	
+	background-color: #E8FBFB;
+	border: solid #C2E9E9 5px;
+
+}
+.friend{	
+	margin-top: 10px;
+	float: left;
+	background-color: #A8F0F0;
+	border: solid #5B95A2 5px;
+}
+.text {
+	float: right;
+}
